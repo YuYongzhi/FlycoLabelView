@@ -1,5 +1,6 @@
 #FlycoLabelView
 
+####[英文版](https://github.com/H07000223/FlycoLabelView/blob/master/README_EN.md)
 一个简单的Android标签控件.
 
 ##Demo
